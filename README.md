@@ -4,10 +4,10 @@ Tugas Rutin 10 - Blog CRUD dengan Laravel
 
 | | |
 |---|---|
-| **Nama** | (Dev Reynaldi Simanjuntak) |
-| **NIM** | (4253550008) |
-| **Kelas** | (PSIK 25C) |
-| **Mata Kuliah** | (Pemrograman Web) |
+| **Nama** | Dev Reynaldi Simanjuntak |
+| **NIM** | 4253550008 |
+| **Kelas** | PSIK 25C |
+| **Mata Kuliah** | Pemrograman Web |
 
 ## Deskripsi
 Aplikasi blog sederhana untuk menambah, melihat, mengubah, dan menghapus post (CRUD) menggunakan Laravel dan Bootstrap 5.
